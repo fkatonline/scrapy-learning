@@ -1,4 +1,3 @@
-/Twisted-19.10.0-cp38-cp38-win_amd64.whl
 # Created by .ignore support plugin (hsz.mobi)
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
@@ -217,6 +216,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-.idea/
-/.idea/
